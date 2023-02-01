@@ -15,16 +15,16 @@ Bust cynicism: we bring relentless optimism to obstacles that seem insurmountabl
 
 
 ### What skills do we need?
-- **Learners** - our hands.  Share your time and effort.  What skills are you motivated to practice/develop/apply?
-- **Advocates** - our hearts.  Share your sense of purpose.  What problem do you want to solve?
-- **Experts** - our brains.  Share your experience and influence.  What do you know how to accomplish?
+- **Learners** - Share your time and effort.  What skills are you motivated to practice / develop / apply?
+- **Advocates** - Share your sense of purpose.  What problem do you want to solve?
+- **Experts** - Share your experience and influence.  What do you know how to accomplish?
 
 
 ### What kinds of projects do we work on?
-We're still figuring that out.  
+Right now, we are doing projects focused on hospital discharge data, healthcare for people experiencing homelessness, and availability of public restrooms.
 
 
 ## Repositories
 - synthetic-database-project: project w/ lisa, stef, ann
-- homeless-poc-project: proof of concept code analyzing discharge data for homeless population
+- homeless-poc-project: proof of concept code analyzing hospital discharge data for homeless population
 - public-toilet-project: project w/ rhonda
