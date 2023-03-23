@@ -1,4 +1,5 @@
-# rileeki-org
+# Starlings
+![© Daniel Biber, Germany, Shortlist, Professional competition, Natural World & Wildlife , 2018 Sony World Photography Awards](https://www.worldphoto.org/sites/default/files/gallery/images/703203/d35b18843b1a0f5282cf34082d11fa56.starling%2520murmuration%25204.JPG)
 Welcome to our idea warehouse! This is a collection of repositories for existing and potential future projects where we can collect and organize information as it is developed and discussed.  
 
 
@@ -9,7 +10,7 @@ A rotating group of students and professionals who are motivated to work on inte
 ### What is our goal?
 Our goal is to establish a pipeline of passion projects that empower people to contribute concrete output with true impact.
 
-I want to help disadvantaged teenagers get mentors like I had - someone invested in their growth that can distill a problem down to something at their level. Lend their credibility and empower the mentee to do big things, and thus see themselves as capable of more.
+"I want to help disadvantaged teenagers get mentors like I had - someone invested in their growth that can distill a problem down to something at their level. Lend their credibility and empower the mentee to do big things, and thus see themselves as capable of more."
 
 Bust cynicism: we bring relentless optimism to obstacles that seem insurmountable.  We find the hands and brains to get the impossible done, one step at a time.
 
@@ -26,5 +27,6 @@ Right now, we are doing projects focused on hospital discharge data, healthcare 
 
 ## Repositories
 - synthetic-database-project: project w/ lisa, stef, ann
+- stsdd: slay the spire daily description project w/ armen & kyle
 - homeless-poc-project: proof of concept code analyzing hospital discharge data for homeless population
 - public-toilet-project: project w/ rhonda
