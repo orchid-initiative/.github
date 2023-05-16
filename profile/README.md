@@ -20,7 +20,7 @@ Bust cynicism: we bring relentless optimism to obstacles that seem insurmountabl
 
 ### What skills do we need?
 - **Learners** - Share your time and effort.  What skills are you motivated to practice / develop / apply?
-- **Advocates** - Share your sense of purpose.  What problem do you want to solve?
+- **Advocates** - Share your sense of purpose.  What problem do you want to solve?  If you are willing to share your passion and ideas, we'll help supply the labor and build momentum.
 - **Experts** - Share your experience and influence.  What do you know how to accomplish?
 
 
