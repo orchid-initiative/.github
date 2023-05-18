@@ -7,7 +7,7 @@ Welcome to our idea warehouse! This is a collection of repositories for existing
 
 
 ### Who are we?
-A rotating group of students and professionals who are motivated to work on interesting and challenging projects without recompense.
+A rotating group of students and professionals who are motivated to work on interesting and challenging projects that aim to make a social impact.
 
 
 ### What is our goal?
