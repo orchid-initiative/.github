@@ -11,7 +11,7 @@ A rotating group of students and professionals who are motivated to work on inte
 
 
 ### What is our goal? 
-Our goal is to establish a hub for passion projects that empower people to contribute concrete output with true impact.
+Our goal is to establish a hub for learning and for contributing to passion projects.  We want to empower people to make a concrete social impact.
 
 "I want to help disadvantaged teenagers get mentors like I had - someone invested in their growth that can distill a problem down to something at their level. Lend their credibility and empower the mentee to do big things, and thus see themselves as capable of more."
 
