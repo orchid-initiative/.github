@@ -10,8 +10,8 @@ Welcome to our idea warehouse! This is a collection of repositories for existing
 A rotating group of students and professionals who are motivated to work on interesting and challenging projects that aim to make a social impact.
 
 
-### What is our goal?
-Our goal is to establish a pipeline of passion projects that empower people to contribute concrete output with true impact.
+### What is our goal? 
+Our goal is to establish a hub for passion projects that empower people to contribute concrete output with true impact.
 
 "I want to help disadvantaged teenagers get mentors like I had - someone invested in their growth that can distill a problem down to something at their level. Lend their credibility and empower the mentee to do big things, and thus see themselves as capable of more."
 
@@ -19,9 +19,9 @@ Bust cynicism: we bring relentless optimism to obstacles that seem insurmountabl
 
 
 ### What skills do we need?
-- **Learners** - Share your time and effort.  What skills are you motivated to practice / develop / apply?
-- **Advocates** - Share your sense of purpose.  What problem do you want to solve?  If you are willing to share your passion and ideas, we'll help supply the labor and build momentum.
-- **Experts** - Share your experience and influence.  What do you know how to accomplish?
+- **Contributors** - Share your time and effort.  What skills are you motivated to practice / develop / apply?
+- **Campaigners** - Share your sense of purpose.  What problem do you want to solve?  If you are willing to share your passion and ideas, we'll help supply the labor and build momentum.
+- **Guides** - Share your experience and influence.  What do you know how to accomplish?
 
 
 ### What kinds of projects do we work on?
