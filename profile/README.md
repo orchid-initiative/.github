@@ -11,12 +11,13 @@ A rotating group of students and professionals who are motivated to work on inte
 
 
 ### What is our goal?
-Our goal is to establish a pipeline of passion projects that empower people to contribute concrete output with true impact.
+Our goal is to establish a pipeline of passion projects that empower people to contribute concrete output with true impact.  We do this from three angles.
 
-"I want to help disadvantaged teenagers get mentors like I had - someone invested in their growth that can distill a problem down to something at their level. Lend their credibility and empower the mentee to do big things, and thus see themselves as capable of more."
+From one side, we look for good ideas that are under-resourced and connect them with an unconventional workforce. We are happy to put in the time to TRY to get traction for the project, even if it might not result in profit or success.
 
-Bust cynicism: we bring relentless optimism to obstacles that seem insurmountable.  We find the hands and brains to get the impossible done, one step at a time.
+From another side, we look for people who want to develop or demonstrate skills and connect them with tasks and mentors.  "I want to help disadvantaged teenagers get mentors like I had - someone invested in their growth that can introduce a learner to big problems and distill them into achievable tasks at their level. Lend their credibility and empower the mentee to do big things and to see themselves as capable of more."
 
+From the third side, we look for teams of people that would like to put their expertise to good use and connect them with challenging, impactful projects and an engaging community of colleagues.
 
 ### What skills do we need?
 - **Learners** - Share your time and effort.  What skills are you motivated to practice / develop / apply?
@@ -25,7 +26,7 @@ Bust cynicism: we bring relentless optimism to obstacles that seem insurmountabl
 
 
 ### What kinds of projects do we work on?
-Right now, we are doing projects focused on hospital discharge data, healthcare for people experiencing homelessness, and availability of public restrooms.
+Right now, we are doing projects focused on hospital discharge data, healthcare for people experiencing homelessness, support for publication of medical research on rural health, and internships in biotechnology and gene therapy.
 
 
 ## Repositories
