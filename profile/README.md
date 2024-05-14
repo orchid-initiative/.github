@@ -4,7 +4,13 @@ Welcome to our idea warehouse! This is a collection of repositories for existing
 
 ### About Us
 
-The Orchid Initiative is a non-profit organization dedicated to solving problems that often slip through the cracks in the current philanthropic environment.  We leverage the expertise of a large network of volunteers, composed of experienced professionals in many different fields, to create innovative solutions to problems faced by people who do not have the resources or expertise necessary to solve them themselves.  We believe that there are a large number of intelligent, creative, and hardworking people who would like to give back to the world but are unsure how to do so and do not have the time required to figure it out on their own.  The Orchid Initiative solves this disconnect with a three-step process.  First, we use our connections in the community to create a large pool of projects to help those in need.  Then we allow our network of volunteers to pick which projects they wish to help with and how much time they will be able to give.  Finally, we manage the project so that it is as simple as possible for our volunteers while interfacing with the community to ensure that it will have the desired benefit. The Orchid initiative tries to make it as easy and hassle-free as we can for both those in the community who identify problems and those in our volunteer network who help solve them.  We want to remove the barriers that stand between these two groups because we believe that good people working together can change the world.  And nothing should stand in their way.
+The Orchid Initiative draws inspiration from the fascinating world of orchids to illustrate our mission and approach.
+
+Unlike other plant seeds, orchid seeds lack the nutrients to grow on their own. The gorgeous blooms you see come from one-in-a-million lucky matches with specific symbiotic partners.
+
+​Like orchid seeds, promising ideas start small and can lack crucial connections and resources necessary for them to take off and thrive.
+
+​At the Orchid Initiative, we nurture mutually beneficial collaborations by connecting our members to meaningful projects otherwise limited by conventional means. Our members are volunteers who offer their mentorship, guidance, and expertise to identify viable paths to success for every project we take on.
 
 ### What is our goal?
 Our goal is to establish a pipeline of passion projects that empower people to contribute concrete output with true impact.  We do this from three angles.
