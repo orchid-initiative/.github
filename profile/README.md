@@ -18,7 +18,7 @@ At Orchid, we match one with the other—connecting people who care deeply about
 ### What's our goal?
 We facilitate passion-driven, purpose-grounded, and skill-building projects. That means:
 
-* Helping people with powerful ideas find the support to test them.
+* Helping dreamers find the support and structure to grow their early ideas.
 * Helping learners and hobbyists find meaningful tasks and mentors.
 * Helping experienced teams apply their expertise to community-rooted needs.
 
@@ -27,7 +27,7 @@ We don’t promise profit or perfection. We promise to try, together.
 --- 
 
 ### What roles do we need?
-- **🌱 Advocates**
+- **🌱 Dreamers**
 Have a problem you care about solving? You don’t need to build the solution alone. Share your context and conviction—we’ll help with traction.
 
 - **🍄 Learners**
